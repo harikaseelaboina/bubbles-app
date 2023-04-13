@@ -1,0 +1,19 @@
+.maindiv{
+  display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.subdiv{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.can{
+    background-color: antiquewhite;
+    border:2px solid black;
+    padding: 5px;
+
+}
